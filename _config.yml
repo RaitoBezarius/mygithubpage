@@ -9,18 +9,18 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Raito Bezarius' adventures
+tagline:             'A heroic fantasy story (wtf) about someone who just wanted to write code'
+description:         'A blog where I talk about code, animes and what I think about thing around me (thanks to <a href="https://twitter.com/mdo target="_blank">@mdo</a> for this cool theme!)'
+url:                 http://www.raitobezarius.me/
 baseurl:             /
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Raito Bezarius
+  url:               https://twitter.com/Ra1t0_Bezar1us
+  email:             masterancpp@gmail.com
 
 # Custom vars
 version:             1.0.0

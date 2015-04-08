@@ -1,1 +1,1 @@
-# My personal blog
+# A personal blog, because blogging is cool!
