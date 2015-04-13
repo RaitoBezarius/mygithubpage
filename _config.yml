@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               Raito Bezarius' adventures
 tagline:             'A heroic fantasy story (wtf) about someone who just wanted to write code'
-description:         'A blog where I talk about code, animes and what I think about thing around me (thanks to <a href="https://twitter.com/mdo target="_blank">@mdo</a> for this cool theme!)'
+description:         'A blog where I talk about code, animes and what I think about thing around me (thanks to <a href="https://twitter.com/mdo" target="_blank">@mdo</a> for this cool theme!)'
 url:                 http://www.raitobezarius.me/
 baseurl:             /
 paginate:            5
