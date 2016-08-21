@@ -70,7 +70,7 @@ theme: flexy
 deploy:
   type: git
   repo: git@github.com:RaitoBezarius/raitobezarius.github.io
-  branch: master
+  branch: gh-pages
   message: "Site updated {{ now('DD-MM-YYYY HH:mm:ss') }}"
 
 nofollow:

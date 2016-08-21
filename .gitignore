@@ -2,6 +2,8 @@
 _gh_pages
 _site
 .ruby-version
+public
+.deploy_git
 
 # Numerous always-ignore extensions
 *.diff
