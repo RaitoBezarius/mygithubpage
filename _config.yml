@@ -99,3 +99,7 @@ sitemap:
 
 feed:
   limit: false
+
+criticalcss:
+  critical:
+    minify: true
