@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ryan Lahfa</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://raitobezarius.me/"/>
+  <updated>2016-08-21T06:25:46.000Z</updated>
+  <id>http://raitobezarius.me/</id>
+  
+  <author>
+    <name>Ryan Lahfa</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hi there.</title>
+    <link href="http://raitobezarius.me/2016/08/21/Hi-there/"/>
+    <id>http://raitobezarius.me/2016/08/21/Hi-there/</id>
+    <published>2016-08-21T06:25:46.000Z</published>
+    <updated>2016-08-21T06:25:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hi there!</p>
+<p>I’m Ryan, also known as <a href="https://keybase.io/RaitoBezarius" target="_blank" rel="external">Raito Bezarius</a> <a href="https://github.com/RaitoBezarius" target="_blank" rel="external">over</a> <a href="https://twitter.com/Ra1t0_Bezar1us" target="_blank" rel="external">Internet</a> <a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a>.</p>
+<p>I am not too good with lengthy self-introduction or captivating and engaging description of what I do.</p>
+<p>Otherwise, I am one of these tech guys who wants to share more about what they are thinking. Anyway. I hope this blog will be helpful for you and everyone and I hope that it’ll convince <strong>you</strong> to start a blog, yes, you!</p>
+<p>El Psy Congroo, Ryan.</p>
+<div class="footnotes">
+<hr>
+<ol>
+<li id="fn1"><p>There will be a post about the why before, the how, and the why after I have this “Raito Bezarius” nickname following me since 2013.<a href="#fnref1">↩</a></p></li>
+</ol>
+</div>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Hi there!&lt;/p&gt;
+&lt;p&gt;I’m Ryan, also known as &lt;a href=&quot;https://keybase.io/RaitoBezarius&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Raito Bezarius&lt;/a&gt; &lt;a 
+    
+    </summary>
+    
+    
+      <category term="Introduction" scheme="http://raitobezarius.me/tags/introduction/"/>
+    
+  </entry>
+  
+</feed>
