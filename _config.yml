@@ -13,7 +13,7 @@ timezone: Europe/Paris
 
 # URL
 url: https://ryan.lahfa.xyz/en
-root: /en
+root: /en/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -99,7 +99,3 @@ sitemap:
 
 feed:
   limit: false
-
-criticalcss:
-  critical:
-    minify: true
