@@ -6,14 +6,14 @@
 # Site
 title: Ryan Lahfa
 subtitle:
-description: A kind of adventure.
+description: Space and time traveller in non-differentiable spaces.
 author: Ryan Lahfa
 language: en
 timezone: Europe/Paris
 
 # URL
-url: http://raitobezarius.me
-root: /
+url: https://ryan.lahfa.xyz/en
+root: /en
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -70,7 +70,7 @@ theme: flexy
 deploy:
   type: git
   repo: git@github.com:RaitoBezarius/raitobezarius.github.io
-  branch: master
+  branch: english
   message: "Site updated {{ now('DD-MM-YYYY HH:mm:ss') }}"
 
 nofollow:

@@ -2,8 +2,9 @@
 title: Hi there.
 intro: Re:Blog in a different world from zero.
 date: 2016-08-18 15:28:29
+lang: en
 tags:
-- Introduction
+- Self-introduction
 ---
 
 Hi there!
